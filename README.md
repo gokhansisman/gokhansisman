@@ -1,5 +1,5 @@
 ### Hello, I am Gokhan. 👋
-- 🔭 I’m working as a Solutions Engineer in [Related Digital](https://www.relateddigital.com/).
+- 🔭 I’m working as a Frontend Developer in [Decathlon Turkey](https://www.decathlon.com.tr/).
 - 💻 I’ve mostly worked professionally with JavaScript, ReactJS, NodeJS, Advance T-SQL and React Native.
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/gokhan-sisman/),[Email](mailto:gokhansisman97@gmail.com)
 - ⚡ Enthusiastic of Javascript & NodeJS.
