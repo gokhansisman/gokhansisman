@@ -1,7 +1,8 @@
-### Hello, I am Gokhan. 👋
-- 🔭 I’m working as a Frontend Developer in [Decathlon Turkey](https://www.decathlon.com.tr/).
+### Hello 👋
+- 📫 I am doing a master's degree in computer science(informatics) at the Technical University of Munich. (2021-)
+- 🔭 I was working as a Frontend Developer in [Decathlon Turkey](https://www.decathlon.com.tr/).
 - 💻 I’ve mostly worked professionally with JavaScript, ReactJS, NodeJS, Advance T-SQL and React Native.
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/gokhan-sisman/),[Email](mailto:gokhansisman97@gmail.com)
+- 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/gokhan-sisman/),[Email](mailto:gokhansisman97@gmail.com)
 - ⚡ Enthusiastic of Javascript & NodeJS.
 
 **“A jack of all trades is a master of none, but oftentimes better than a master of one.”**
