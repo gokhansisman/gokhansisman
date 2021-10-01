@@ -3,7 +3,7 @@
 - 🔭 I was working as a Frontend Developer in [Decathlon Turkey](https://www.decathlon.com.tr/).
 - 💻 I’ve mostly worked professionally with JavaScript, ReactJS, NodeJS, Advance T-SQL and React Native.
 - 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/gokhan-sisman/),[Email](mailto:gokhansisman97@gmail.com)
-- ⚡ Enthusiastic of Javascript & NodeJS.
+- ⚡ Enthusiastic of Javascript.
 
 **“A jack of all trades is a master of none, but oftentimes better than a master of one.”**
 <!--
