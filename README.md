@@ -1,5 +1,6 @@
 ### Hello 👋
 - 📫 M.Sc. Computer Science (Informatics) at the Technical University of Munich(May 2024).
+- Frontend developer at [CHECK24](https://www.check24.de/) 🚀
 - 💻 I’ve mostly worked professionally with JavaScript, ReactJS, NodeJS, Advance T-SQL and React Native.
 - 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/gokhan-sisman/),[Email](mailto:gokhansisman97@gmail.com)
 - ⚡ Enthusiastic of Javascript.
